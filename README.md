@@ -1,4 +1,4 @@
-# Proyecto Flex
+# Proyecto Progra - Work In Progress
 
 ## Miembros y Roles del proyecto:
   Gonzalo - integrante Flex 
