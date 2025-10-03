@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Programa con PYTHONPATH=src",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/src/app/main.py",
+      "cwd": "${workspaceFolder}",
+      "env": { "PYTHONPATH": "${workspaceFolder}/src" },
+      "console": "integratedTerminal",
+      "justMyCode": true
+    }
+  ]
+}
